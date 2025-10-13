@@ -9,7 +9,7 @@ Mert Coban – Introduction & Context
 
 Fatih Sevim – Growth & Drivers
 
-Eray Alkıs 3 – Benefits & Opportunities
+Eray Alkıs  – Benefits & Opportunities
 
 Arzu Isfandiyarli – Challenges & Future
 
@@ -60,3 +60,4 @@ Bubble – No-code web app builder
 Webflow – Visual web development platform
 
 Gartner (as cited by multiple sources): 70% of new applications will use LC/NC by 2025
+
