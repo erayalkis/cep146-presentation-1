@@ -12,6 +12,8 @@ Eray Alkıs  – Benefits & Opportunities
 
 Arzu Isfandiyarli – Challenges & Future
 
+Presentation video: [CEP 146 Presentation 1](https://youtu.be/0rm9StCHrvk?si=5NVa3djwH0v-J-1D)
+
 🧠 Topic Summary
 
 Low-code and no-code platforms are tools that let people build applications without needing advanced programming skills.
@@ -59,4 +61,5 @@ Bubble – No-code web app builder
 Webflow – Visual web development platform
 
 Gartner (as cited by multiple sources): 70% of new applications will use LC/NC by 2025
+
 
