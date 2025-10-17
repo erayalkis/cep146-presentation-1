@@ -1,4 +1,3 @@
-The Rise of Low-Code / No-Code Platforms
 
 Course: CEP146 – Essential Tooling for Programmers
 Project Type: Current Event Presentation
