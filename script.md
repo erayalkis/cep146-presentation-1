@@ -22,3 +22,6 @@
 ---
 
 ## Section 4 – Challenges & Future (Arzu, ~35 sec)
+> While powerful, these platforms do face core challenges that IT leaders must address. First, there's the issue of vendor lock in. Once an application is built on aspecific low-code platform, migrating the data and logic to a different system, or even to custom code, can be extremely difficult and costly, limiting long-term flexibility.
+  We also have serious risks associated with goverance and shadow IT, where employees build internal apps wthout proper security oversight, creating vulnerabilities.
+Low-code will not replace professional developers; instead, it frees them to focus on those high-value, complex tasks, while empowering buisness users to solve everyday problems. The fusion of citizen developers, IT and AI will make the development landscape faster, smarter, and far more inclusive.
